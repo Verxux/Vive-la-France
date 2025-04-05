@@ -1,3 +1,4 @@
+[
 {
 		"name": "France",
 		"leaderName": "Napoleon",
@@ -28,3 +29,4 @@
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
         "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
     },
+]
