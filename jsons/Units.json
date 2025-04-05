@@ -3,6 +3,7 @@
 		"name": "Great Military Architect",
 		"unitType": "Civilian",
     "cost":2,
+	  	"uniqueTo":"France",
 		"uniques": [
             "Empire enters a [10]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>"],
@@ -12,6 +13,7 @@
 		"name": " Very Great Artist",
 		"unitType": "Civilian",
     "cost":2,
+	  	"uniqueTo":"France",
 		"uniques": [
             "Empire enters a [10]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>"],
@@ -19,8 +21,9 @@
 	},
   {
 		"name": "Patron of Science",
-		"unitType": "Civilian
+		"unitType": "Civilian",
     "cost":2,
+	  	"uniqueTo":"France",
 		"uniques": [
             "Can hurry technology research",
             "Can instantly construct a [Academy] improvement <by consuming this unit>"],
@@ -29,6 +32,7 @@
   {
 		"name": "Patron of Industry",
 		"unitType": "Civilian",
+	  	"uniqueTo":"France",
     "cost":2,
 		"uniques": ["Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>"],
@@ -38,6 +42,7 @@
 		"name": "Saint Patron",
 		"unitType": "Civilian",
     "cost":5,
+	  	"uniqueTo":"France",
 		"uniques": [
             "Can instantly construct a [Holy site] improvement <by consuming this unit> ,
             "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
@@ -49,6 +54,7 @@
   {
 		"name": "Patron of Commerce",
 		"unitType": "Civilian",
+	  	"uniqueTo":"France",
     "cost":5,
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>","Uncapturable"],
