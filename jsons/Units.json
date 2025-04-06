@@ -60,6 +60,17 @@
             "Can instantly construct a [Customs house] improvement <by consuming this unit>","Uncapturable"],
 		"movement": 5
 	},
+	
+{
+		"name": "Knowledge flows through me",
+		"unitType": "Civilian",
+                "cost":200,
+	  	"uniqueTo":"France",
+		"uniques": [
+            "Can hurry technology research",
+            "Gain [1215752191] [Science] <by consuming this unit>", "Can instantly construct a [Academy] improvement <by consuming this unit>"],
+		"movement": 5
+	},
 ]
 
   
