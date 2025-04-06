@@ -79,7 +79,7 @@
 	  	"uniqueTo":"France",
 		"uniques": [
             "Empire enters a [10]-turn Golden Age <by consuming this unit>",
-	    " Gain [5000] [Culture] <by consuming this unit>",
+	    "Gain [5000] [Culture] <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>"],
 		"movement": 5
 	},
@@ -90,7 +90,7 @@
     "cost":2,
 		"uniques": ["Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>", 
-		"Gain [69999] [Production] <by consuming this unit>"],
+		"Gain [69999][Production] <by consuming this unit>"],
 		"movement": 5
 	},
 	
