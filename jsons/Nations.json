@@ -22,7 +22,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ancien Régime",
-		"uniques": ["[+2 Culture,+1 Food] [in all cities] <before discovering [Steam Power]>","[+4 Production, +2 Gold, +4 Culture, +8 Happiness,+1 Food] from every [Great Improvement]"],
+		"uniques": ["[+2 Culture,+1 Food] [in all cities] <before discovering [Steam Power]>","[+4 Production, +2 Gold, +4 Culture, +8 Happiness, +1 Food] from every [Great Improvement]"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
