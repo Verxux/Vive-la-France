@@ -88,8 +88,7 @@
 		"unitType": "Civilian",
 	  	"uniqueTo":"France",
     "cost":2,
-		"uniques": ["Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <[10] times> <after which this unit is consumed>",
+		"uniques": ["Can instantly construct a [Manufactory] improvement <[10] times> <after which this unit is consumed>",
 			"Can instantly construct a [Road] improvement <[99] times> <after which this unit is consumed>",
 			"Can instantly construct a [Railroad] improvement <[99] times> <after which this unit is consumed>"],
 		"movement": 5
