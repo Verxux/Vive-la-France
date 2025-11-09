@@ -61,6 +61,16 @@
             "Can instantly construct a [Customs house] improvement <by consuming this unit>","Uncapturable"],
 		"movement": 5
 	},
+	{
+		"name": "Fund a navy",
+		"unitType": "Civilian",
+        "cost":2,
+	  	"uniqueTo":"France",
+		"uniques": [
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Drydock] improvement <by consuming this unit>"],
+		"movement": 5
+	},
 	
 {
 		"name": "Knowledge flows through me",
