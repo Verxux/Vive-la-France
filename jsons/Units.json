@@ -63,7 +63,7 @@
 	},
 	{
 		"name": "Fund a navy",
-		"unitType": "Civilian",
+		"unitType": "Civilian Water",
         "cost":2,
 	  	"uniqueTo":"France",
 		"uniques": [
