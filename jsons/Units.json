@@ -68,7 +68,7 @@
 	  	"uniqueTo":"France",
 		"uniques": [
             "Empire enters a [10]-turn Golden Age <by consuming this unit>",
-            "Can instantly construct a [Drydock] improvement <by consuming this unit>"],
+            "Can instantly construct a [Dry dock] improvement <by consuming this unit>"],
 		"movement": 5
 	},
 	
