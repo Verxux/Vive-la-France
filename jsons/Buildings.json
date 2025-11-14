@@ -1,9 +1,11 @@
+[
 {
 		"name": "Divine Silva General",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-    "UniqueTo": "France",
+     "UniqueTo": "France",
 		"uniques": ["New [Military] units start with [45] XP [in this city]","Destroyed when the city is captured",
     "All newly-trained [non-[Air]] units [in this city] receive the [Quick Study] promotion"],
-		"requiredTech": "Bronze Working"
-	},
+	 "requiredTech": "Bronze Working"
+	}
+]
