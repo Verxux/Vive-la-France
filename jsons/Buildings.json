@@ -5,7 +5,7 @@
 		"maintenance": 1,
      "uniqueTo": "France",
 		"uniques": ["New [Military] units start with [50] XP [in this city]","Destroyed when the city is captured",
-    "All newly-trained [non-[Air]] units [in this city] receive the [Divine Silva General] promotion"],
+    "All newly-trained [Military] units [in this city] receive the [Divine Silva General] promotion"],
 	 "requiredTech": "Bronze Working"
 	}
 ]
